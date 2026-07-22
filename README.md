@@ -3,12 +3,6 @@
 İkinci el kitap alım satımı ve kitap topluluğu platformu.
 
 ## Özellikler
-- 📚 Kitap ilanı oluşturma
-- 🔍 Kitap arama
-- 💬 Kullanıcı mesajlaşması
-- 💳 Emanet ödeme sistemi
-
-## Özellikler
 
 - 📚 Kitap ilanı oluşturma
 - 🔍 Kitap arama
