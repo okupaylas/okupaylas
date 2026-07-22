@@ -7,7 +7,17 @@
 - 🔍 Kitap arama
 - 💬 Kullanıcı mesajlaşması
 - 💳 Emanet ödeme sistemi
-- ⭐ Kullanıcı puanlama## Hi there 👋
+# OkuPaylaş
+
+İkinci el kitap alım satımı ve kitap topluluğu platformu.
+
+## Özellikler
+
+- 📚 Kitap ilanı oluşturma
+- 🔍 Kitap arama
+- 💬 Kullanıcılar arası mesajlaşma
+- 💳 Emanet ödeme sistemi
+- ⭐ Kullanıcı puanlama ve yorum sistemi
 
 <!--
 **okupaylas/okupaylas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
