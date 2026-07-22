@@ -33,3 +33,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+frontend/
+backend/
+README.md
+LICENSE
+.gitignore
