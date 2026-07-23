@@ -1,0 +1,9 @@
+{
+  "name": "okupaylas",
+  "version": "1.0.0",
+  "description": "OkuPaylaş Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
